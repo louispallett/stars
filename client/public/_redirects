@@ -1,0 +1,3 @@
+/api/*  /*your-server-domain.co.uk*/  200
+
+/* Note - this is needed for Netlify - it isn't needed for development but there's no harm in including it */
